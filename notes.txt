@@ -1,3 +1,0 @@
--Reinforcment learning
-    -^ is an area of machine learning, teaches a software agent how to behave in an envirnment by telling how good its doing.
-    -using deep Q learning to extend reinforcement learning by using a deep neural network to predict its actions
